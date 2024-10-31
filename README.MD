@@ -1,0 +1,1 @@
+A simple example of using FastAPI with SQLAlchemy for database operations
